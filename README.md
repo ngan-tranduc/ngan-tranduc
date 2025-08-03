@@ -4,7 +4,7 @@
 
 ### 🎓 Final-year student at Nha Trang University | 💻 Passionate about coding
 
-<img src="https://komarev.com/ghpvc/?username=ngan-tranduc&label=Profile%20views&color=0e75b6&style=flat" alt="ngan-tranduc" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngan-tranduc&label=Profile%20views&color=0e75b6&style=flat" alt="ngan-tranduc" /> </p>
 
 </div>
 
@@ -21,12 +21,14 @@
 
 <div align="center">
 
+<p align="left">
 <a href="https://linkedin.com/in/ngan-tran-duc-99bbb8371" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://codeforces.com/profile/_nganj" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
 </a>
+</p>
 
 </div>
 
@@ -59,10 +61,10 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngan-tranduc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ngan-tranduc" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngan-tranduc&show_icons=true&locale=en&layout=compact&theme=light" alt="ngan-tranduc" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ngan-tranduc&show_icons=true&locale=en&theme=tokyonight" alt="ngan-tranduc" />
+<img src="https://github-readme-stats.vercel.app/api?username=ngan-tranduc&show_icons=true&locale=en&theme=light" alt="ngan-tranduc" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ngan-tranduc&theme=tokyonight" alt="ngan-tranduc" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ngan-tranduc&theme=light" alt="ngan-tranduc" />
 
 </div>
