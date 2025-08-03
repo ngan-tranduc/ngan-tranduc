@@ -28,6 +28,10 @@
 <a href="https://codeforces.com/profile/_nganj" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
 </a>
+  <a href="https://www.youtube.com/@tranducngan" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+</div>
 </p>
 
 </div>
