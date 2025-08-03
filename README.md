@@ -58,7 +58,7 @@
 ### 🗄️ Databases
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=light" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="50"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="48" height="48"/>
 </p>
 
 ## 📊 GitHub Stats:
