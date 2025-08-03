@@ -34,30 +34,26 @@
 
 ## 🛠️ Languages and Tools:
 
-<div align="center">
-
 ### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,dart" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,dart&theme=light" />
 </p>
 
 ### 🌐 Web Technologies  
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=light" />
 </p>
 
 ### 🚀 Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,spring,docker,git,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,spring,docker,git,postman&theme=light" />
 </p>
 
 ### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=light" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="50"/>
 </p>
-
-</div>
 
 ## 📊 GitHub Stats:
 
