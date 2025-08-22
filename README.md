@@ -11,7 +11,6 @@
 ---
 
 ### 🔭 About Me:
-- 🚀 I'm currently working on a personal project [**Laptop Shop**](https://github.com/ngan-tranduc/laptop-store-web)
 - 📫 How to reach me: **ducngan.contact@gmail.com**
 - 💡 Always eager to learn new technologies and improve my coding skills
 
