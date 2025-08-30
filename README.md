@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tran Duc Ngan
+Hi 👋, I'm Tran Duc Ngan
 <div align="center">
 ### 🎓 Final-year student at Nha Trang University | 💻 Passionate about coding
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngan-tranduc&label=Profile%20views&color=0e75b6&style=flat" alt="ngan-tranduc" /> </p>
