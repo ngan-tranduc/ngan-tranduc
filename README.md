@@ -29,17 +29,13 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,python,js,dart&theme=light" />
 </p>
-### 🌐 Frontend Technologies  
+### 🌐 Web Technologies  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular&theme=light" />
 </p>
-### 🚀 Backend & Frameworks
+### 🚀 Frameworks & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,spring,flutter&theme=light" />
-</p>
-### 🛠️ Tools & DevOps
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,docker,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=flutter,spring,dotnet,docker,git,postman&theme=light" />
 </p>
 ### 🗄️ Databases
 <p align="left">
