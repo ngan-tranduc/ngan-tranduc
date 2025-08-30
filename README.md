@@ -5,7 +5,7 @@
 </div>
 ---
 ### 🔭 About Me:
-- 📫 How to reach me: **ducngan.contact@gmail.com**
+- 📫 How to reach me: ducngan.contact@gmail.com
 - 💡 Always eager to learn new technologies and improve my coding skills
 ---
 ### 🌐 Connect with me:
@@ -31,11 +31,11 @@
 </p>
 ### 🌐 Web Technologies  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=light" />
 </p>
 ### 🚀 Frameworks & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,spring,dotnet,docker,git,postman&theme=light" />
+<img src="https://skillicons.dev/icons?i=dotnet,spring,flutter,docker,git,postman&theme=light" />
 </p>
 ### 🗄️ Databases
 <p align="left">
@@ -44,7 +44,7 @@
 </p>
 ## 📊 GitHub Stats:
 <div align="center">
-  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngan-tranduc&show_icons=true&locale=en&layout=compact&theme=light" alt="ngan-tranduc" />
 <img src="https://github-readme-stats.vercel.app/api?username=ngan-tranduc&show_icons=true&locale=en&theme=light" alt="ngan-tranduc" />
 </div>
