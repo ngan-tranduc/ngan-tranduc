@@ -12,8 +12,6 @@
 
 ### 🔭 About Me:
 - 📫 How to reach me: **ducngan.contact@gmail.com**
-- 💡 Always eager to learn new technologies and improve my coding skills
-
 ---
 
 ### 🌐 Connect with me:
