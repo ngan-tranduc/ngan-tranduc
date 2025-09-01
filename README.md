@@ -12,6 +12,8 @@
 
 ### 🔭 About Me:
 - 📫 How to reach me: **ducngan.contact@gmail.com**
+- 🌐 Blog: <a href="https://nganj.id.vn" target="_blank">nganj.id.vn</a>
+- 🎯 Focus: Software Development & Problem Solving
 ---
 
 ### 🌐 Connect with me:
