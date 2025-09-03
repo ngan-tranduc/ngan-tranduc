@@ -46,7 +46,7 @@
 
 ### 🌐 Web Technologies  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light" />
 </p>
 
 ### 🚀 Frameworks & Tools
